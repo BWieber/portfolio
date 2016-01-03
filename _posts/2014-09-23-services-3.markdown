@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: blocipedia-landing.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: <u> Blocipedia </u> <br> SaaS Collaboration Wiki
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+A Wikipedia clone with a variety of user roles. Standard users can create and edit wikis, premium users can create private wikis with collaborators and admins can do it all. 

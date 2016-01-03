@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: bloccit-landing.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: <u>Bloccit</u> <br> A Reddit Replica to Showcase the Fundamentals of Web Development and Ruby on Rails.
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+  This project was my entry into Ruby and Ruby on Rails. It introduced me to the core aspects of Rails and was the training ground of my understanding.
