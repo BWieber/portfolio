@@ -1,0 +1,8 @@
+---
+layout: default
+img: blocmarks-landing.png
+category: Services
+title: <u> Blocmarks </u> <br> A social bookmarking app that allows users to email, manage and share bookmarked URLs.
+description: |
+---
+  Incorporating mailgun to remotely created data and share bookmarks with the ease of an email.
