@@ -1,0 +1,8 @@
+---
+layout: default
+img: blocipedia-landing.png
+category: Services
+title: <u> Blocipedia </u> <br> SaaS Collaboration Wiki
+description: |
+---
+A Wikipedia clone with a variety of user roles. Standard users can create and edit wikis, premium users can create private wikis with collaborators and admins can do it all. 
