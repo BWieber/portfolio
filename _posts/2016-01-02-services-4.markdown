@@ -1,8 +1,11 @@
 ---
 layout: default
-img: blocitoff-landing.png
+img: Blocitoff-Landing.png
 category: Services
 title: <u> Blocitoff </u> <br> A self-destructing to-do list to make your life more productive.
 description: |
 ---
 Self-destructing task list that automatically deletes tasks if not completed within 7 days. Users create individual accounts by providing a username, email address, and password. They can then create tasks and delete them when finished.
+
+<a href="http://bwieber-blocitoff.herokuapp.com/"><button type="button" class="btn btn-default">Website</button></a>
+<a href="https://github.com/BWieber/Blocitoff"><button type="button" class="btn btn-default">GitHub Repo</button></a>

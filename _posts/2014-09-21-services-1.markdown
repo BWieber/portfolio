@@ -1,6 +1,6 @@
 ---
 layout: default
-img: bloccit-landing.png
+img: Bloccit-Landing.png
 category: Services
 title: <u>Bloccit</u> <br> A Reddit Replica to Showcase the Fundamentals of Web Development and Ruby on Rails.
 description: |

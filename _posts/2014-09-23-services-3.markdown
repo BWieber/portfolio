@@ -1,8 +1,11 @@
 ---
 layout: default
-img: blocipedia-landing.png
+img: Blocipedia-Landing.png
 category: Services
 title: <u> Blocipedia </u> <br> SaaS Collaboration Wiki
 description: |
 ---
-A Wikipedia clone with a variety of user roles. Standard users can create and edit wikis, premium users can create private wikis with collaborators and admins can do it all. 
+A Wikipedia clone with a variety of user roles. Standard users can create and edit wikis, premium users can create private wikis with collaborators and admins can do it all.
+
+<a href="http://bwieber-blocipedia.herokuapp.com/"><button type="button" class="btn btn-default">Website</button></a>
+<a href="https://github.com/BWieber/Blocipedia"><button type="button" class="btn btn-default">GitHub Repo</button></a>
