@@ -5,7 +5,7 @@ category: Services
 title: <u> Blocmarks </u> <br> A social bookmarking app that allows users to email, manage and share bookmarked URLs.
 description: |
 ---
-  Incorporating mailgun to remotely created data and share bookmarks with the ease of an email.
+  An app that allows you to email bookmarks to it to remotely create data with the ease of an email.
 
   <a href="http://bwieber-blocmarks.herokuapp.com/"><button type="button" class="btn btn-default">Website</button></a>
   <a href="https://github.com/BWieber/Blocmarks"><button type="button" class="btn btn-default">GitHub Repo</button></a>
