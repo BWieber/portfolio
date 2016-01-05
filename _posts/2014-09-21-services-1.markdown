@@ -5,8 +5,7 @@ category: Services
 title: <u>Bloccit</u> <br> A Reddit Replica to Showcase the Fundamentals of Web Development and Ruby on Rails.
 description: |
 ---
-
-  This project was my entry into Ruby and Ruby on Rails. It introduced me to the core aspects of Rails and was the training ground of my understanding.
+  This project was my entry into Ruby and Ruby on Rails. It replicates many of reddit's UI, allowing a user to create topics, posts and comments. It also allows a user to favorite posts they like, and up/down vote any post.
 
   <a href="http://bwieber-bloccit.herokuapp.com/"><button type="button" class="btn btn-default">Website</button></a>
   <a href="https://github.com/BWieber/BasicRailsApp"><button type="button" class="btn btn-default">GitHub Repo</button></a>
