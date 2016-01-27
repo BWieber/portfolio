@@ -7,5 +7,5 @@ description: |
 ---
  An application that allows a user to bookmark URLs via email, peruse other user's bookmarks and maintain a personal index of categorized bookmarks.
 
-  <a href="http://bwieber-blocmarks.herokuapp.com/"><button type="button" class="btn btn-default">Website</button></a>
-  <a href="https://github.com/BWieber/Blocmarks"><button type="button" class="btn btn-default">GitHub Repo</button></a>
+  <a href="http://bwieber-blocmarks.herokuapp.com/" class='btn btn-default btn-lg'> <i class="fa fa-star"> </i> <span class="network-name">Website</span></a>
+  <a href="https://github.com/BWieber/Blocmarks" class='btn btn-default btn-lg'> <i class="fa fa-github"> </i> <span class="network-name">GitHub Repo</span></a>

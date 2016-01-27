@@ -7,5 +7,5 @@ description: |
 ---
  Blocitoff is a self-destructing task list that automatically deletes tasks if not completed within 7 days. Users create individual accounts by providing a username, email address, and password. They can then create tasks and delete them when finished.
 
-<a href="http://bwieber-blocitoff.herokuapp.com/"><button type="button" class="btn btn-default">Website</button></a>
-<a href="https://github.com/BWieber/Blocitoff"><button type="button" class="btn btn-default">GitHub Repo</button></a>
+<a href="http://bwieber-blocitoff.herokuapp.com/" class='btn btn-default btn-lg'> <i class="fa fa-star"> </i> <span class="network-name">Website</span></a>
+<a href="https://github.com/BWieber/Blocitoff" class='btn btn-default btn-lg'> <i class="fa fa-github"> </i> <span class="network-name">GitHub Repo</span></a>

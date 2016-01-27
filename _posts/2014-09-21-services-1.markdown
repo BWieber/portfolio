@@ -7,5 +7,5 @@ description: |
 ---
   This project was my entry into Ruby and Ruby on Rails. It replicates many of reddit's UI, allowing a user to create topics, posts and comments. It also allows a user to favorite posts they like, and up/down vote any post.
 
-  <a href="http://bwieber-bloccit.herokuapp.com/"><button type="button" class="btn btn-default">Website</button></a>
-  <a href="https://github.com/BWieber/BasicRailsApp"><button type="button" class="btn btn-default">GitHub Repo</button></a>
+  <a href="http://bwieber-bloccit.herokuapp.com/" class='btn btn-default btn-lg'> <i class="fa fa-star"> </i> <span class="network-name">Website</span></a>
+  <a href="https://github.com/BWieber/BasicRailsApp" class='btn btn-default btn-lg'> <i class="fa fa-github"> </i> <span class="network-name">GitHub Repo</span></a>

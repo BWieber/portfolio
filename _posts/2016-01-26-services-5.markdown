@@ -1,0 +1,11 @@
+---
+layout: default
+img: Blocmetrics-Landing.png
+category: Services
+title: <u>Blocmetrics</u> <br> An analytics service and reporting tool that you can use with web apps to track user activity and report results.
+description: |
+---
+  A custom API reporting tool which registers page visits from included applications. This app included client-side Javascript, the Chartkick Javascript library and the installation of a postgreSQL server locally.  
+
+  <a href="http://bwieber-blocmetrics.herokuapp.com/" class='btn btn-default btn-lg'> <i class="fa fa-star"> </i> <span class="network-name">Website</span></a>
+  <a href="https://github.com/BWieber/Blocmetrics" class='btn btn-default btn-lg'> <i class="fa fa-github"> </i> <span class="network-name">GitHub Repo</span></a>
